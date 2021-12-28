@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace GmailLogin
 {
-    class Program
+    class GmailLogin
     {
         static void Main(string[] args)
         {
